@@ -6,11 +6,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-<<<<<<< HEAD
-  "scripts": {
-=======
  "scripts": {
->>>>>>> c8d0c5004c782f09f9e69f5ccd45358218435150
     "start": "node app.js"
   },
   "keywords": [],
